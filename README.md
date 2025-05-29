@@ -1,4 +1,4 @@
-# midterm2 task 1 
+# Midterm2 Task 1 
 ListMapper Java Program
 Overview
 ListMapper is a Java program that demonstrates the use of lists and mappings to associate and transform data between two different types: integers and strings. The program performs the following tasks:
